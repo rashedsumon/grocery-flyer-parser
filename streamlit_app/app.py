@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from excel_helpers import load_template, save_to_excel
+from excel_helpers.py import load_template, save_to_excel
 
 st.set_page_config(page_title="Grocery Flyer QA", layout="wide")
 st.title("Grocery Flyer QA & Export")
