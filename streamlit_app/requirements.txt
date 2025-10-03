@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+google-api-python-client   # optional, if integrating Drive
+google-auth                # optional
+requests
+python-dotenv
